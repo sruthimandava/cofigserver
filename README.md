@@ -1,3 +1,3 @@
 # cofigserver
 
-message= this is config program
+message=this is config program
